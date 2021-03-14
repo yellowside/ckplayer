@@ -71,8 +71,8 @@ function ckplayerConfig() {
 		},
 		menu: { //版权名称支持
 			ckkey: '',
-			name: '冰豆云播',
-			link: 'https://vod.bingdou.xyz/',
+			name: 'ckplayer',
+			link: 'https://player.qianqi.net/',
 			version: '',
 			domain: '',
 			more: []
