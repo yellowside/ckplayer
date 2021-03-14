@@ -115,7 +115,7 @@
 		this.ckStyle = {};
 		this.jsonStyle = {};//该变量为一次性赋值，不再变化
 		//全局变量：右键菜单：[菜单标题,类型(link:链接，default:灰色，function：调用函数，javascript:调用js函数),执行内容(包含链接地址，函数名称),[line(间隔线)]]
-		this.contextMenu = [['ckplayer', 'link', 'http://www.ckplayer.com', '_blank'], ['version:X2', 'default', 'line']];
+		this.contextMenu = [['ckplayer', 'link', 'https://player.qianqi.net/', '_blank'], ['version:X2', 'default', 'line']];
 		//全局变量：错误提示列表
 		this.errorList = [
 			['000', 'Object does not exist'], 
