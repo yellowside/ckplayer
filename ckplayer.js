@@ -72,7 +72,7 @@ function ckplayerConfig() {
 		menu: { //版权名称支持
 			ckkey: '',
 			name: '冰豆云播',
-			link: 'https://vod.bingdou.net/',
+			link: 'https://vod.bingdou.xyz/',
 			version: '',
 			domain: '',
 			more: []
